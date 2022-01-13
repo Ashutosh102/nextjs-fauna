@@ -1,4 +1,6 @@
 # Fauna GraphQL Guestbook Starter
+![Screenshot (745)](https://user-images.githubusercontent.com/75971776/149370754-badfa2f1-548d-4dda-beda-a6a1039ca497.png)
+![Screenshot (744)](https://user-images.githubusercontent.com/75971776/149370778-15d6b33b-e219-48d7-972d-e7892fb1c582.png)
 
 This Guestbook Single-Page Application (SPA) example shows you how to use [Fauna's GraphQL endpoint](https://docs.fauna.com/fauna/current/api/graphql/) in your Next.js project.
 
